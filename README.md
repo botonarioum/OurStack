@@ -14,5 +14,7 @@ Deploy: https://github.com/laravel/envoy
 
 # Extras  
 Docker  
-Python  
+Python (django, flask) 
 Heroku
+RabbitMQ
+Envoyer: https://envoyer.io
